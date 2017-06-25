@@ -1,0 +1,45 @@
+- title: St Peters Gardens
+  url: "/"
+  side: left
+
+- title: Background
+  url: "/background/"
+  side: left
+
+- title: Dean's Message
+  url: "/deans_message/"
+  side: left
+
+- title: "The Gardens"
+  url: "/gardens/"
+  side: left
+  dropdown:
+  #TODO
+  - title: "Jenny and Peter Bailey"
+    url: "/gardens/jenny-and-peter-bailey"
+  - title: "Angela and Derek Shirlaw"
+    url: "/gardens/angela-and-derek-shirlaw"
+  - title: "Steve Thiele and Sue Vile"
+    url: "/gardens/steve-thiele-and-sue-vile"
+  - title: "Megan and David Aitkin"
+    url: "/gardens/megan-and-david-aitkin"
+  - title: "Liz and Tony Spring"
+    url: "/gardens/liz-and-tony-spring"
+  - title: "June and Max Endacott"
+    url: "/gardens/june-and-max-endacott"
+  - title: "Colin and Pam Pateman"
+    url: "/gardens/colin-and-pam-pateman"
+  - title: "Wendy and Tony Smith"
+    url: "/gardens/wendy-and-tony-smith"
+  - title: "Lucy and Barry McCann"
+    url: "/gardens/lucy-and-barry-mccann"
+  - title: "Lin and Bill Anderson"
+    url: "/gardens/lin-and-bill-anderson"
+
+- title: Event's Program
+  url: "/events_program/"
+  side: left
+
+- title: Special Event
+  url: "/special_event/"
+  side: left
