@@ -3,10 +3,14 @@ layout: page-fullwidth
 permalink: /gardens/lucy-and-barry-mccann/
 header:
   title: Lucy and Barry McCann
-  image_fullwidth: header_images/6.jpg
+  image_fullwidth: gardens/lucy-and-barry-mccann/1.jpg
 categories:
     - gardens
 gallery:
+    - image_url: gardens/lucy-and-barry-mccann/1.jpg
+    - image_url: gardens/lucy-and-barry-mccann/3.jpg
+    - image_url: gardens/lucy-and-barry-mccann/4.jpg
+    - image_url: gardens/lucy-and-barry-mccann/2.jpg
 
 ---
 
