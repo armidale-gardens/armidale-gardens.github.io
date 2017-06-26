@@ -38,7 +38,7 @@ St Peters Town and Country Garden Tours have been an annual event in Armidale fo
 
 If you would like to know more about details such as transport and the timetabling of events see the [Events Program](/events_program).
 
-Contact Details
+**Contact Details**
 
 Phone:
 
@@ -47,6 +47,8 @@ Phone:
 E-mail:
 
 [coralthrift11@hotmail.com](mailto:coralthrift11@hotmail.com) (Coral Thrift) 
+
+Tickets are available at Carrs Newsagency
 
 <h3 class="text-center">SPONSORS</h3>
 
