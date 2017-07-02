@@ -13,8 +13,6 @@ gallery:
     - image_url: gardens/wendy-and-tony-smith/4.jpg
 ---
 
-29 Gordon Street
-
 We moved into this house in 2008, and had water, drainage and retaining wall issues on the 860 square metre block to sort out.
 There has been constant concreting, retaining wall and garden bed formation; erection of a large garden shed / man cave and a green house. Many tonnes of concrete, blue metal and dirt have been delivered and then wheelbarrowed and shovelled from the front to the back; and 800 blocks and some caps also moved from the driveway to the patio and then around the yard. We will be displaying before photos to show the transformation.
 

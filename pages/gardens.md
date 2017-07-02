@@ -12,47 +12,47 @@ This year's St Peters Gardens tour will take you to the following destinations.
   <tbody>
     <tr>
       <td>Gardens</td>
-      <td>Address</td>
+      <td>Category</td>
     </tr>
     <tr>
       <td>Jenny and Peter Bailey</td>
-      <td><a href="/gardens/jenny-and-peter-bailey">54 Gungurru Road</a></td>
+      <td><a href="/gardens/jenny-and-peter-bailey">Country garden</a></td>
     </tr>
     <tr>
       <td>Angela and Derek Shirlaw</td>
-      <td><a href="/gardens/angela-and-derek-shirlaw">68 Marble Hill Road</a></td>
+      <td><a href="/gardens/angela-and-derek-shirlaw">Country garden</a></td>
     </tr>
     <tr>
       <td>Steve Thiele and Sue Vile</td>
-      <td><a href="/gardens/steve-thiele-and-sue-vile">12 Braund Street</a></td>
+      <td><a href="/gardens/steve-thiele-and-sue-vile">Town garden</a></td>
     </tr>
     <tr>
       <td>Megan and David Aitkin</td>
-      <td><a href="/gardens/megan-and-david-aitkin">160 Simmons Road</a></td>
+      <td><a href="/gardens/megan-and-david-aitkin">Country garden</a></td>
     </tr>
     <tr>
-      <td>Liz and Tony Spring</td>
-      <td><a href="/gardens/liz-and-tony-spring">133 Dangar Street</a></td>
+      <td>Arran House</td>
+      <td><a href="/gardens/arran-house">Town garden</a></td>
     </tr>
     <tr>
-      <td>June and Max Endacott</td>
-      <td><a href="/gardens/june-and-max-endacott">104 Dumaresq Road</a></td>
+      <td>June and Max Endacotts</td>
+      <td><a href="/gardens/june-and-max-endacotts">Country garden</a></td>
     </tr>
     <tr>
       <td>Colin and Pam Pateman</td>
-      <td><a href="/gardens/colin-and-pam-pateman">79 The Avenue</a></td>
+      <td><a href="/gardens/colin-and-pam-pateman">Town garden</a></td>
     </tr>
     <tr>
       <td>Wendy and Tony Smith</td>
-      <td><a href="/gardens/wendy-and-tony-smith">29 Gordon Street</a></td>
+      <td><a href="/gardens/wendy-and-tony-smith">Town garden</a></td>
     </tr>
     <tr>
       <td>Lucy and Barry McCann</td>
-      <td><a href="/gardens/lucy-and-barry-mccann">28 Kintyre Road</a></td>
+      <td><a href="/gardens/lucy-and-barry-mccann">Country garden</a></td>
     </tr>
     <tr>
       <td>Lin and Bill Anderson</td>
-      <td><a href="/gardens/lin-and-bill-anderson">Brookside, Rockvale Road</a></td>
+      <td><a href="/gardens/lin-and-bill-anderson">Country garden</a></td>
     </tr>
   </tbody>
 </table>

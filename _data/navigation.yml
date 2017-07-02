@@ -23,10 +23,10 @@
     url: "/gardens/steve-thiele-and-sue-vile"
   - title: "Megan and David Aitkin"
     url: "/gardens/megan-and-david-aitkin"
-  - title: "Liz and Tony Spring"
-    url: "/gardens/liz-and-tony-spring"
-  - title: "June and Max Endacott"
-    url: "/gardens/june-and-max-endacott"
+  - title: "Arran House"
+    url: "/gardens/arran-house"
+  - title: "June and Max Endacotts"
+    url: "/gardens/june-and-max-endacotts"
   - title: "Colin and Pam Pateman"
     url: "/gardens/colin-and-pam-pateman"
   - title: "Wendy and Tony Smith"
@@ -36,7 +36,7 @@
   - title: "Lin and Bill Anderson"
     url: "/gardens/lin-and-bill-anderson"
 
-- title: Event's Program
+- title: Events Program
   url: "/events_program/"
   side: left
 

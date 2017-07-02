@@ -12,8 +12,6 @@ gallery:
     - image_url: gardens/jenny-and-peter-bailey/3.jpg
 ---
 
-54 Gungurru Road
-
 Following an accident in 2008 which left me with limited mobility, we made the decision to move to a home which was reasonably flat and did not the steps we had in our previous home.  So in 2011 we moved to a home on 5 acres!   We are truly grateful we had the opportunity to move here because it has changed our lives, all for the better.   We love the peace and quiet and waking up to birdsong rather than traffic and other suburban noises.
 
 When we bought it, the garden was made up predominantly of natives and there were some accessibility issues for me in the front garden.   Rather than start from scratch we set about tidying up and opening up the front of the house to the garden.   We have retained all the trees which provide autumn colour such as pistachios, Japanese maples etc so as I speak, it is looking really beautiful.

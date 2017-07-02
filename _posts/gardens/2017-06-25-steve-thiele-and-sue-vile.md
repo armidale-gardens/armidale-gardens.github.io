@@ -13,8 +13,6 @@ gallery:
     - image_url: gardens/steve-thiele-and-sue-vile/4.jpg
 ---
 
-12 Braund Street
-
 A TOWN NATIVE GARDEN WITH A PLANT STALL FOR AUSTRALIAN PLANTS
 
 This garden is on a one-hectare block in south-eastern Armidale with an easterly aspect, though there is some northern slope. It is within the old Armidale stream beds. The indigenous rock is ironstone conglomerate derived from a basalt cap. The soil is very poor but well drained, so good for Australian natives.

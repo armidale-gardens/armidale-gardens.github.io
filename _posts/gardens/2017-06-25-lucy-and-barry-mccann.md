@@ -14,8 +14,6 @@ gallery:
 
 ---
 
-‘Kintyre’, 28 Kintyre Road
-
 We purchased Kintyre in September 1998. This garden has evolved on a shoestring budget.
 
 With no outside water, (we had presumed there would be a tap somewhere!) there was no garden to speak of, just a couple of trees. After looking at the ground and needing a crowbar and mattock to dig, we knew without water we had a struggle on our hands. The very first thing was to have a large dam put in. We say with pride, we now have three taps!!!  We then ask all our friends to save magazines and newspapers for us and we parted with some hard earned $$$ for a couple of loads of council mulch. The garden began near the house and progressed out like a fan. It is now 17 years old and in this time the dam has overflowed only twice. So it is a very water frugal garden. The plants are also hardy to accommodate the harsh frosts we receive. On the up side, this garden has four different and beautiful seasons.  

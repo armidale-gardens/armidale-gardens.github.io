@@ -13,8 +13,6 @@ gallery:
     - image_url: gardens/megan-and-david-aitkin/4.jpg
 ---
 
-160 Simmons Road
-
 The main homestead at Hedgerow Farm was built in 1953 by the Waters family.
 
 We purchased Hedgerow Farm when we returned to Australia from Hong Kong five years ago and since then, have extended the garden around a newly built stable complex, round-yard and arena for our horses. 

@@ -13,8 +13,6 @@ gallery:
     - image_url: gardens/colin-and-pam-pateman/4.jpg
 ---
 
-79 The Avenue Armidale
-
 Welcome to our garden, a place we enjoy. Our garden is now 13 years old. It was previously in the St Peters Open Garden 7 years ago. In this time the garden has changed. Some plants are now reaching their mature size, while others due to our climate extremes went to “ nursery heaven”, and we started again. 
 
 The garden is on a north facing sloping  block on rocky basalt soil, more rock than soil, which has made establishing and keeping plants difficult.

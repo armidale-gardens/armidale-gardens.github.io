@@ -30,15 +30,17 @@ homepage: true
 <br>
 
 
-St Peters Town and Country Garden Tours have been an annual event in Armidale for twenty six years. Through all the vagaries of New England weather - drought, hailstorms, rainstorms, late frosts, wild winters, mild winters - the gardens have brought pleasure to a great many visitors, year in year out.
+St Peters Town and Country Garden Tours have been an annual event in Armidale for many decades. Through all the vagaries of New England weather - drought, hailstorms, rainstorms, late frosts, wild winters, mild winters - the gardens have brought pleasure to a great many visitors, year in year out.
 
-**GARDEN PREVIEWS:** You can find out more about what is in store by viewing the [online profiles](/gardens)  of each of the ten gardens included in this year's event.
+**CHARITIES:**  AYF, Young Life, Angel Flight
+
+**GARDEN PREVIEWS:** You can find out more about what is in store by viewing the [online profiles](/gardens)  of each of the ten gardens included in this year's event. Tickets are available from the garden gates on 4th and 5th November
 
 **COSTS:** $5.00 per garden or $40.00 for a weekend ticket or $45.00 for daily coach ticket.
 
 If you would like to know more about details such as transport and the timetabling of events see the [Events Program](/events_program).
 
-**Contact Details**
+**CONTACT DETAILS**
 
 Phone:
 
@@ -58,19 +60,9 @@ Tickets are available at Carrs Newsagency
 <table class="no-border full-width">
   <tbody>
     <tr>
-      <td><img src="/images/sponsors/regional-australia-bank.jpg" alt="Regional Australia Bank"></td>
       <td><img src="/images/sponsors/ducats.jpg" alt="Ducats"></td>
       <td><img src="/images/sponsors/bob-greene-s-auto-repairs.jpg" alt="Bob Greene's Auto Repair"></td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="no-border full-width">
-  <tbody>
-    <tr>
       <td><img src="/images/sponsors/ex-services.jpg" alt="Ex-Servies Club"></td>
-      <td><img src="/images/sponsors/Bowling-Club.jpg" alt="Armidale Bowling Club"></td>
-      <td><img src="/images/sponsors/purkiss_rural.jpg" alt="Purkiss Rural"></td>
     </tr>
   </tbody>
 </table>
@@ -81,6 +73,16 @@ Tickets are available at Carrs Newsagency
       <td><img src="/images/sponsors/priceline.jpg" alt="Priceline Pharmacy"></td>
       <td><img src="/images/sponsors/TERRYWHITE-CHEMIST.jpg" alt="Terry White Chemists"></td>
       <td><img src="/images/sponsors/cincottadiscountchemist.jpg" alt="Cincotta Discount Chemist"></td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="no-border full-width">
+  <tbody>
+    <tr>
+      <td class="width-33"><img src="/images/sponsors/Bowling-Club.jpg" alt="Armidale Bowling Club"></td>
+      <td class="width-33"><img src="/images/sponsors/purkiss_rural.jpg" alt="Purkiss Rural"></td>
+      <td class="width-33"></td>
     </tr>
   </tbody>
 </table>

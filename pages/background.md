@@ -6,7 +6,7 @@ header:
 meta_title: "Armidale Gardens Background"
 permalink: "/background/"
 ---
-St Peters Town and Country Garden Tours have been an annual event in Armidale for 26 years. Through all the vagaries of New England weather - drought, hailstorms, rainstorms, late frosts, wild winters, mild winters - the gardens have brought pleasure to a great many visitors, year in year out.
+St Peters Town and Country Garden Tours have been an annual event in Armidale for many decades. Through all the vagaries of New England weather - drought, hailstorms, rainstorms, late frosts, wild winters, mild winters - the gardens have brought pleasure to a great many visitors, year in year out.
 
 Each year we are fortunate to have new gardens in our program as well as a few old favourites. Gardeners from many different areas of the district have been justly proud to open their gardens to the public, with plantings suited to our climatic conditions, demonstrating their skills in design, their undoubted hard work and their generosity in sharing their creations with us.
 
