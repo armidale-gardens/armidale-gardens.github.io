@@ -50,7 +50,7 @@ E-mail:
 
 [coralthrift11@hotmail.com](mailto:coralthrift11@hotmail.com) (Coral Thrift) 
 
-Tickets are available at Carrs Newsagency
+Tickets are available at Carr's Newsagency
 
 <h3 class="text-center">SPONSORS</h3>
 

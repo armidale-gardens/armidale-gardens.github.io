@@ -21,6 +21,6 @@ Max fenced off a small house yard which was soon planted with the liquid ambers 
 
 A few years ago white ants invaded the fallen log and Max dragged it out in pieces with the tractor, ruining a large part of the garden!  In the last year my interest has renewed and it is now a matter of curtailing much enthusiastic previous planting and adding more plants as discovered.
  
-June and Max Endicotts
+June and Max Endacotts
 
 {% include gallery %}
