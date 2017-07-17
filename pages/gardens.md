@@ -27,8 +27,8 @@ This year's St Peters Gardens tour will take you to the following destinations.
       <td><a href="/gardens/steve-thiele-and-sue-vile">Town garden</a></td>
     </tr>
     <tr>
-      <td>Megan and David Aitkin</td>
-      <td><a href="/gardens/megan-and-david-aitkin">Country garden</a></td>
+      <td>Megan and David Aitken</td>
+      <td><a href="/gardens/megan-and-david-aitken">Country garden</a></td>
     </tr>
     <tr>
       <td>Arran House</td>

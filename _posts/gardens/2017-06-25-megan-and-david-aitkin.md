@@ -1,16 +1,16 @@
 ---
 layout: page-fullwidth
-permalink: /gardens/megan-and-david-aitkin/
+permalink: /gardens/megan-and-david-aitken/
 header:
-  title: Megan and David Aitkin
-  image_fullwidth: gardens/megan-and-david-aitkin/1.jpg
+  title: Megan and David Aitken
+  image_fullwidth: gardens/megan-and-david-aitken/1.jpg
 categories:
     - gardens
 gallery:
-    - image_url: gardens/megan-and-david-aitkin/1.jpg
-    - image_url: gardens/megan-and-david-aitkin/2.jpg
-    - image_url: gardens/megan-and-david-aitkin/3.jpg
-    - image_url: gardens/megan-and-david-aitkin/4.jpg
+    - image_url: gardens/megan-and-david-aitken/1.jpg
+    - image_url: gardens/megan-and-david-aitken/2.jpg
+    - image_url: gardens/megan-and-david-aitken/3.jpg
+    - image_url: gardens/megan-and-david-aitken/4.jpg
 ---
 
 The main homestead at Hedgerow Farm was built in 1953 by the Waters family.
