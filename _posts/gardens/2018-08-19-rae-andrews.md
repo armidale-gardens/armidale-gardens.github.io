@@ -3,11 +3,13 @@ layout: page-fullwidth
 permalink: /gardens/rae-andrews/
 header:
   title: Rae Andrews
-#   image_fullwidth: gardens/rae-andrews/1.jpg
+  image_fullwidth: gardens/rae-andrews/1.jpg
 categories:
     - gardens
 gallery:
-    # - image_url: gardens/rae-andrews/1.jpg
+    - image_url: gardens/rae-andrews/1.jpg
+    - image_url: gardens/rae-andrews/2.jpg
+    - image_url: gardens/rae-andrews/3.jpg
 
 ---
 

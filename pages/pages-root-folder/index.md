@@ -25,18 +25,21 @@ permalink: /index.html
 #
 homepage: true
 ---
-<h2 class="text-center">3rd & 4th November<br>Open 10:00am - 5:00pm</h2>
+
+<h2 class="text-center">3rd November | 4th November<br>Open 10am - 5pm | Open 10am - 4pm</h2>
 
 <br>
 
 
 St Peters Town and Country Garden Tours have been an annual event in Armidale for many decades. Through all the vagaries of New England weather - drought, hailstorms, rainstorms, late frosts, wild winters, mild winters - the gardens have brought pleasure to a great many visitors, year in year out.
 
-**CHARITIES:**  AYF, Young Life, Angel Flight
+**CHARITIES:**  Oncology Dept Armidale Hospital, Young Life Youth work Uralla, Riding for the Disabled Armidale
 
 **GARDEN PREVIEWS:** You can find out more about what is in store by viewing the [online profiles](/gardens)  of each of the ten gardens included in this year's event. Tickets are available from the garden gates on 4th and 5th November
 
 **COSTS:** $5.00 per garden or $40.00 for a weekend ticket or $45.00 for daily coach ticket.
+
+**FOOD:** Morning and afternoon Tea $5, Lunch $10
 
 If you would like to know more about details such as transport and the timetabling of events see the [Events Program](/events_program).
 
