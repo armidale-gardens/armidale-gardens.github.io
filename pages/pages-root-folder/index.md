@@ -63,7 +63,7 @@ Tickets are available at Carr's Newsagency
 <table class="no-border full-width">
   <tbody>
     <tr>
-      <td><img src="/images/sponsors/ducats.jpg" alt="Ducats"></td>
+      <td><img src="/images/sponsors/regional-australia-bank.jpg" alt="Regional Australia Bank"></td>
       <td><img src="/images/sponsors/bob-greene-s-auto-repairs.jpg" alt="Bob Greene's Auto Repair"></td>
       <td><img src="/images/sponsors/ex-services.jpg" alt="Ex-Servies Club"></td>
     </tr>

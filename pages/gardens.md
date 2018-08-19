@@ -15,8 +15,8 @@ This year's St Peters Gardens tour will take you to the following destinations.
       <td>Category</td>
     </tr>
     <tr>
-      <td>Anne Baillie</td>
-      <td><a href="/gardens/anne-baillie">Armidale Country Garden</a></td>
+      <td>Anne &amp; Neil Baillie</td>
+      <td><a href="/gardens/anne-and-neil-baillie">Armidale Country Garden</a></td>
     </tr>
     <tr>
       <td>Kevin Archer</td>
