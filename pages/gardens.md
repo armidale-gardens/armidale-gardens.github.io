@@ -15,44 +15,40 @@ This year's St Peters Gardens tour will take you to the following destinations.
       <td>Category</td>
     </tr>
     <tr>
-      <td>Jenny and Peter Bailey</td>
-      <td><a href="/gardens/jenny-and-peter-bailey">Country garden</a></td>
+      <td>Anne Baillie</td>
+      <td><a href="/gardens/anne-baillie">Armidale Country Garden</a></td>
     </tr>
     <tr>
-      <td>Angela and Derek Shirlaw</td>
-      <td><a href="/gardens/angela-and-derek-shirlaw">Country garden</a></td>
+      <td>Kevin Archer</td>
+      <td><a href="/gardens/kevin-archer">Armidale Town Garden</a></td>
     </tr>
     <tr>
-      <td>Steve Thiele and Sue Vile</td>
-      <td><a href="/gardens/steve-thiele-and-sue-vile">Town garden</a></td>
+      <td>Carolyn Cleland</td>
+      <td><a href="/gardens/carolyn-cleland">Armidale Country Garden</a></td>
     </tr>
     <tr>
-      <td>Megan and David Aitken</td>
-      <td><a href="/gardens/megan-and-david-aitken">Country garden</a></td>
+      <td>Ashley Burnside</td>
+      <td><a href="/gardens/ashley-burnside">Armidale Country Garden</a></td>
     </tr>
     <tr>
-      <td>Arran House</td>
-      <td><a href="/gardens/arran-house">Town garden</a></td>
+      <td>Ern Smith</td>
+      <td><a href="/gardens/ern-smith">Armidale Town Garden</a></td>
     </tr>
     <tr>
-      <td>June and Max Endacotts</td>
-      <td><a href="/gardens/june-and-max-endacotts">Country garden</a></td>
+      <td>Margaret &amp; Jeff Scott</td>
+      <td><a href="/gardens/margaret-and-jeff-scott">Uralla Town Garden</a></td>
     </tr>
     <tr>
-      <td>Colin and Pam Pateman</td>
-      <td><a href="/gardens/colin-and-pam-pateman">Town garden</a></td>
+      <td>Sue &amp; David Wilkinson</td>
+      <td><a href="/gardens/sue-and-david-wilkinson">Uralla Town Garden</a></td>
     </tr>
     <tr>
-      <td>Wendy and Tony Smith</td>
-      <td><a href="/gardens/wendy-and-tony-smith">Town garden</a></td>
+      <td>Patrick Laher</td>
+      <td><a href="/gardens/patrick-laher">Uralla Town Garden/Native Plants Garden</a></td>
     </tr>
     <tr>
-      <td>Lucy and Barry McCann</td>
-      <td><a href="/gardens/lucy-and-barry-mccann">Country garden</a></td>
-    </tr>
-    <tr>
-      <td>Lin and Bill Anderson</td>
-      <td><a href="/gardens/lin-and-bill-anderson">Country garden</a></td>
+      <td>Rae Andrews</td>
+      <td><a href="/gardens/rae-andrews">Uralla Town Garden</a></td>
     </tr>
   </tbody>
 </table>

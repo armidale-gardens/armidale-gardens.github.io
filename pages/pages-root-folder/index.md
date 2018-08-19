@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  title: St Peters Gardens<br>2017
+  title: St Peters Gardens<br>2018
   image_fullwidth: header_images/5.jpg
 #
 # Use the call for action to show a button on the frontpage
@@ -25,7 +25,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-<h2 class="text-center">4th & 5th November<br>Open 10:00am - 5:00pm</h2>
+<h2 class="text-center">3rd & 4th November<br>Open 10:00am - 5:00pm</h2>
 
 <br>
 
