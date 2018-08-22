@@ -1,15 +1,15 @@
 ---
 layout: page-fullwidth
-permalink: /gardens/rae-andrews/
+permalink: /gardens/bill-and-rae-andrews/
 header:
-  title: Rae Andrews
-  image_fullwidth: gardens/rae-andrews/1.jpg
+  title: Bill and Rae Andrews
+  image_fullwidth: gardens/bill-and-rae-andrews/1.jpg
 categories:
     - gardens
 gallery:
-    - image_url: gardens/rae-andrews/1.jpg
-    - image_url: gardens/rae-andrews/2.jpg
-    - image_url: gardens/rae-andrews/3.jpg
+    - image_url: gardens/bill-and-rae-andrews/1.jpg
+    - image_url: gardens/bill-and-rae-andrews/2.jpg
+    - image_url: gardens/bill-and-rae-andrews/3.jpg
 
 ---
 
@@ -27,9 +27,5 @@ Edging the beds was easy, the digging and manuring was tiring but when finished 
 As there were so many roots from the large trees it was best to use mulches and make beds over the roots. We planted many lovely trees and added the gates, arches and other adornments. A few of the big trees were removed but one still supports the white wisteria, another has a pot on it and the old pine on the western side has several climbers on it. The thunderbox came from a disused tennis court in Uralla. The old sheep race under the big elm out back is original, as the property was once part of an old holding.
 
 The rest of the garden is my creation and I hope you enjoy walking and sitting in its surrounds and listening to the lovely birds that frequent it.
-
-Rae and Bill Andrews<br>
-'Ross Parc'<br>
-51 Leece Road, Uralla
 
 {% include gallery %}

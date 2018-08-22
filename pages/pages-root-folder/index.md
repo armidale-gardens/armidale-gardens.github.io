@@ -7,7 +7,7 @@
 layout: page-fullwidth
 header:
   title: St Peters Gardens<br>2018
-  image_fullwidth: header_images/5.jpg
+  image_fullwidth: header_images/7.jpg
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,7 +35,7 @@ St Peters Town and Country Garden Tours have been an annual event in Armidale fo
 
 **CHARITIES:**  Oncology Dept Armidale Hospital, Young Life Youth work Uralla, Riding for the Disabled Armidale
 
-**GARDEN PREVIEWS:** You can find out more about what is in store by viewing the [online profiles](/gardens)  of each of the ten gardens included in this year's event. Tickets are available from the garden gates on 4th and 5th November
+**GARDEN PREVIEWS:** You can find out more about what is in store by viewing the [online profiles](/gardens)  of each of the eight gardens included in this year's event. Tickets are available from the garden gates on 3<sup>rd</sup> and 4<sup>th</sup> November
 
 **COSTS:** $5.00 per garden or $40.00 for a weekend ticket or $45.00 for daily coach ticket.
 
@@ -47,7 +47,7 @@ If you would like to know more about details such as transport and the timetabli
 
 Phone:
 
-[02 6772 2015](tel:0267722015) or [0407 537 016](tel:0407537016) (Coral Thrift)
+[0407 537 016](tel:0407537016) (Coral Thrift)
 
 E-mail:
 
@@ -55,37 +55,7 @@ E-mail:
 
 Tickets are available at Carr's Newsagency
 
-<h3 class="text-center">SPONSORS</h3>
-
-<br>
-<br>
-
-<table class="no-border full-width">
-  <tbody>
-    <tr>
-      <td><img src="/images/sponsors/regional-australia-bank.jpg" alt="Regional Australia Bank"></td>
-      <td><img src="/images/sponsors/bob-greene-s-auto-repairs.jpg" alt="Bob Greene's Auto Repair"></td>
-      <td><img src="/images/sponsors/ex-services.jpg" alt="Ex-Servies Club"></td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="no-border full-width">
-  <tbody>
-    <tr>
-      <td><img src="/images/sponsors/priceline.jpg" alt="Priceline Pharmacy"></td>
-      <td><img src="/images/sponsors/TERRYWHITE-CHEMIST.jpg" alt="Terry White Chemists"></td>
-      <td><img src="/images/sponsors/cincottadiscountchemist.jpg" alt="Cincotta Discount Chemist"></td>
-    </tr>
-  </tbody>
-</table>
-
-<table class="no-border full-width">
-  <tbody>
-    <tr>
-      <td class="width-33"><img src="/images/sponsors/Bowling-Club.jpg" alt="Armidale Bowling Club"></td>
-      <td class="width-33"><img src="/images/sponsors/purkiss_rural.jpg" alt="Purkiss Rural"></td>
-      <td class="width-33"></td>
-    </tr>
-  </tbody>
-</table>
+<div class="text-center">
+<h3>MAJOR SPONSORS</h3>
+<img src="/images/sponsors/all-sponsors.jpg" alt="Sponsors">
+</div>

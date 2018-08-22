@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: /gardens/margaret-and-jeff-scott/
 header:
-  title: Ern Smith
+  title: Margaret and Jeff Scott
   image_fullwidth: gardens/margaret-and-jeff-scott/1.jpg
 categories:
     - gardens
@@ -31,7 +31,5 @@ To date most of our work has been to maintain the garden, plant a few more shrub
 We do have some exciting plans for the future which include bordering more of the gardens, concreting the driveway edges and installing some water features. 
 
 In spring the gardens are very beautiful and well worth inspecting particularly the roses. 
-
-3 Sandon Close Uralla
 
 {% include gallery %}

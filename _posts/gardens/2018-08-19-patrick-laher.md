@@ -33,5 +33,4 @@ I carry out regular pruning of all shrubs, which is essential for good growth, s
 Advice and many of the plant species seen in the garden will be available for sale.
 I hope that some of the plants in my garden will inspire you to have a go at growing them in your garden.
 
-
 {% include gallery %}

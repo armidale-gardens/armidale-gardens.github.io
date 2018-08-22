@@ -23,16 +23,12 @@ This year's St Peters Gardens tour will take you to the following destinations.
       <td><a href="/gardens/kevin-archer">Armidale Town Garden</a></td>
     </tr>
     <tr>
-      <td>Carolyn Cleland</td>
-      <td><a href="/gardens/carolyn-cleland">Armidale Country Garden</a></td>
+      <td>Keith &amp; Carolyn Cleland</td>
+      <td><a href="/gardens/keith-and-carolyn-cleland">Armidale Country Garden</a></td>
     </tr>
     <tr>
-      <td>Ashley Burnside</td>
-      <td><a href="/gardens/ashley-burnside">Armidale Country Garden</a></td>
-    </tr>
-    <tr>
-      <td>Ern Smith</td>
-      <td><a href="/gardens/ern-smith">Armidale Town Garden</a></td>
+      <td>Diane &amp; Ern Smith</td>
+      <td><a href="/gardens/diane-and-ern-smith">Armidale Town Garden</a></td>
     </tr>
     <tr>
       <td>Margaret &amp; Jeff Scott</td>
@@ -47,8 +43,8 @@ This year's St Peters Gardens tour will take you to the following destinations.
       <td><a href="/gardens/patrick-laher">Uralla Town Garden/Native Plants Garden</a></td>
     </tr>
     <tr>
-      <td>Rae Andrews</td>
-      <td><a href="/gardens/rae-andrews">Uralla Town Garden</a></td>
+      <td>Bill &amp; Rae Andrews</td>
+      <td><a href="/gardens/bill-and-rae-andrews">Uralla Town Garden</a></td>
     </tr>
   </tbody>
 </table>

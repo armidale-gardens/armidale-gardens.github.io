@@ -1,14 +1,14 @@
 ---
 layout: page-fullwidth
-permalink: /gardens/ern-smith/
+permalink: /gardens/diane-and-ern-smith/
 header:
-  title: Ern Smith
-  image_fullwidth: gardens/ern-smith/1.jpg
+  title: Diane and Ern Smith
+  image_fullwidth: gardens/diane-and-ern-smith/1.jpg
 categories:
     - gardens
 gallery:
-    - image_url: gardens/ern-smith/1.jpg
-    - image_url: gardens/ern-smith/2.jpg
+    - image_url: gardens/diane-and-ern-smith/1.jpg
+    - image_url: gardens/diane-and-ern-smith/2.jpg
 
 
 ---

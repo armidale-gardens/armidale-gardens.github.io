@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: /gardens/anne-and-neil-baillie/
 header:
-  title: Anne & Neil Baillie
+  title: Anne and Neil Baillie
 #   image_fullwidth: gardens/anne-and-neil-baillie/1.jpg
 categories:
     - gardens
@@ -24,9 +24,5 @@ Over the years there have been a number of alterations to the size and shape of 
 Since retiring our garden has become more of a focus as we have enjoyed creating new and interesting features. For the young and young-at-heart there is a small fairy garden which was created for our grandchildren.
 
 Today there are camelias, azaleas, spring and summer flowering bulbs, agapantus and roses. Nandina provide a colourful contrast with the ironstone rock borders. Flowering shrubs including Bauhinia, Mexican Orange Blossom and Raphiolepsis and are scattered throughout the garden with some tall trees. A hedge of Photinia shields us from the road. We have tried to keep the garden space open to take advantage of the magnificent views in every direction. It is a quiet and peaceful setting attracting a variety of bird species as well as skinks and many blue tongued lizards.
-
-ANNE AND NEIL BAILLIE
-
-‘KALLALA WEST’, 686 BUNDARRA RD, ARMIDALE
 
 {% include gallery %}

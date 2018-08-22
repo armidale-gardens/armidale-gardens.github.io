@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: /gardens/sue-and-david-wilkinson/
 header:
-  title: Sue & David Wilkinson
+  title: Sue and David Wilkinson
   image_fullwidth: gardens/sue-and-david-wilkinson/1.jpg
 categories:
     - gardens
@@ -24,11 +24,5 @@ Our losses have been many and we have come to the conclusion that unfortunately,
 The addition of a pergola and green house for the many pots provide a shaded area to sit on a warm day whilst a nearby water feature adds to the ambience.  Time spent there pottering away is creative bliss!
 
 We have edged garden beds with pavers making it easier to maintain all areas.  Many hours are lovingly spent in the garden maintaining it and creating new ideas.  We hope you enjoy it as much as we do.
-
-
-Sue and David Wilkinson<br>
-26 King St<br>
-Uralla 2358
-
 
 {% include gallery %}

@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
-permalink: /gardens/carolyn-cleland/
+permalink: /gardens/keith-and-carolyn-cleland/
 header:
-  title: Carolyn Cleland
-#   image_fullwidth: gardens/carolyn-cleland/1.jpg
+  title: Keith and Carolyn Cleland
+#   image_fullwidth: gardens/keith-and-carolyn-cleland/1.jpg
 categories:
     - gardens
 gallery:
-    # - image_url: gardens/carolyn-cleland/1.jpg
+    # - image_url: gardens/keith-and-carolyn-cleland/1.jpg
 
 ---
 
@@ -27,7 +27,7 @@ We want to acknowledge the invaluable and professional help of Ned McDowell, and
 
 Welcome to our garden! We feel privileged to have had the opportunity to work so closely and lovingly with His creation.
 
-Keith and Carolyn Cleland 02 6772 5076
+Keith and Carolyn Cleland
 
 ----
 
