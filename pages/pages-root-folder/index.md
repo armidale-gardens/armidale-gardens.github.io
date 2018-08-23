@@ -7,7 +7,7 @@
 layout: page-fullwidth
 header:
   title: St Peters Gardens<br>2018
-  image_fullwidth: header_images/7.jpg
+  image_fullwidth: header_images/8.jpg
 #
 # Use the call for action to show a button on the frontpage
 #
