@@ -3,11 +3,14 @@ layout: page-fullwidth
 permalink: /gardens/anne-and-neil-baillie/
 header:
   title: Anne and Neil Baillie
-#   image_fullwidth: gardens/anne-and-neil-baillie/1.jpg
+  image_fullwidth: gardens/anne-and-neil-baillie/1.jpg
 categories:
     - gardens
 gallery:
-    # - image_url: gardens/anne-and-neil-baillie/1.jpg
+    - image_url: gardens/anne-and-neil-baillie/1.jpg
+    - image_url: gardens/anne-and-neil-baillie/2.jpg
+    - image_url: gardens/anne-and-neil-baillie/3.jpg
+
 
 ---
 

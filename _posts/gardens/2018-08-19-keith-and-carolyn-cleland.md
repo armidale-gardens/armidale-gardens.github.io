@@ -3,11 +3,12 @@ layout: page-fullwidth
 permalink: /gardens/keith-and-carolyn-cleland/
 header:
   title: Keith and Carolyn Cleland
-#   image_fullwidth: gardens/keith-and-carolyn-cleland/1.jpg
+  image_fullwidth: gardens/keith-and-carolyn-cleland/1.jpg
 categories:
     - gardens
 gallery:
-    # - image_url: gardens/keith-and-carolyn-cleland/1.jpg
+    - image_url: gardens/keith-and-carolyn-cleland/1.jpg
+    - image_url: gardens/keith-and-carolyn-cleland/2.jpg
 
 ---
 
