@@ -25,6 +25,7 @@ Our house was moved to its current location in 1946 across paddocks from behind 
 When we moved in at the end of 1976, the side fences were only 2 metres from the house and the back fence less than 5 metres away. There were no trees close by and no garden to speak of.
 
 Although I have always enjoyed gardening, 2 small children, a full-time career and a love of sports (for both of us) left little time for this pleasure.
+
 Neil’s mother was an avid gardener. She began creating the design (the basis of which still exists today) adding many plants from her own beautiful garden just down the road. The yard was extended and many trees planted.
 
 Over the years, there have been a number of alterations to the size and shape of the garden. Some early plantings have been removed and replaced with more suitable varieties. Extensive use has been made of the ironstone and basalt rocks found on the property, to create garden borders and interesting features including 2 small pond/water features and a wishing well. 
