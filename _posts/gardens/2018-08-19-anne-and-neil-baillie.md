@@ -14,6 +14,8 @@ gallery:
     - image_url: gardens/anne-and-neil-baillie/5.jpg
     - image_url: gardens/anne-and-neil-baillie/6.jpg
     - image_url: gardens/anne-and-neil-baillie/7.jpg
+    - image_url: gardens/anne-and-neil-baillie/8.jpg
+    - image_url: gardens/anne-and-neil-baillie/9.jpg
 
 
 ---
