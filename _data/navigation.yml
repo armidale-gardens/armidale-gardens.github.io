@@ -2,34 +2,34 @@
   url: "/"
   side: left
 
-- title: Background
-  url: "/background/"
-  side: left
+# - title: Background
+#   url: "/background/"
+#   side: left
 
-- title: Dean's Message
-  url: "/deans_message/"
-  side: left
+# - title: Dean's Message
+#   url: "/deans_message/"
+#   side: left
 
-- title: "The Gardens"
-  url: "/gardens/"
-  side: left
-  dropdown:
-  - title: "Anne & Neil Baillie"
-    url: "/gardens/anne-and-neil-baillie"
-  - title: "Kevin Archer"
-    url: "/gardens/kevin-archer"
-  - title: "Keith & Carolyn Cleland"
-    url: "/gardens/keith-and-carolyn-cleland"
-  - title: "Diane & Ern Smith"
-    url: "/gardens/diane-and-ern-smith"
-  - title: "Margaret & Jeff Scott"
-    url: "/gardens/margaret-and-jeff-scott"
-  - title: "Sue & David Wilkinson"
-    url: "/gardens/sue-and-david-wilkinson"
-  - title: "Patrick Laher"
-    url: "/gardens/patrick-laher"
-  - title: "Bill & Rae Andrews"
-    url: "/gardens/bill-and-rae-andrews"
-- title: Events Program
-  url: "/events_program/"
-  side: left
+# - title: "The Gardens"
+#   url: "/gardens/"
+#   side: left
+#   dropdown:
+#   - title: "Anne & Neil Baillie"
+#     url: "/gardens/anne-and-neil-baillie"
+#   - title: "Kevin Archer"
+#     url: "/gardens/kevin-archer"
+#   - title: "Keith & Carolyn Cleland"
+#     url: "/gardens/keith-and-carolyn-cleland"
+#   - title: "Diane & Ern Smith"
+#     url: "/gardens/diane-and-ern-smith"
+#   - title: "Margaret & Jeff Scott"
+#     url: "/gardens/margaret-and-jeff-scott"
+#   - title: "Sue & David Wilkinson"
+#     url: "/gardens/sue-and-david-wilkinson"
+#   - title: "Patrick Laher"
+#     url: "/gardens/patrick-laher"
+#   - title: "Bill & Rae Andrews"
+#     url: "/gardens/bill-and-rae-andrews"
+# - title: Events Program
+#   url: "/events_program/"
+#   side: left

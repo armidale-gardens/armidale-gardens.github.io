@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  title: St Peters Gardens<br>2018
+  title: St Peters Gardens<br>2019
   image_fullwidth: header_images/8.jpg
 #
 # Use the call for action to show a button on the frontpage
@@ -26,7 +26,10 @@ permalink: /index.html
 homepage: true
 ---
 
-<h2 class="text-center">3rd November | 4th November<br>Open 10am - 5pm | Open 10am - 4pm</h2>
+It is with much sadness the St Peters Garden weekend  committee have made the hard decision to cancel the 2019 St Peters garden weekend due to the  on going nature and  severity of the drought.  We continue to pray for rain and hope in 2020 we will be back to normal.  
+
+
+<!-- <h2 class="text-center">3rd November | 4th November<br>Open 10am - 5pm | Open 10am - 4pm</h2>
 
 <br>
 
@@ -58,4 +61,4 @@ Tickets are available at Carr's Newsagency
 <div class="text-center">
 <h3>MAJOR SPONSORS</h3>
 <img src="/images/sponsors/all-sponsors.jpg" alt="Sponsors">
-</div>
+</div> -->
