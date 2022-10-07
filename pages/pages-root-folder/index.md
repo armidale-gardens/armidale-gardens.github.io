@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  title: St Peters Gardens<br>2019
+  title: St Peters Gardens<br>2022
   image_fullwidth: header_images/8.jpg
 #
 # Use the call for action to show a button on the frontpage
@@ -26,39 +26,32 @@ permalink: /index.html
 homepage: true
 ---
 
-It is with much sadness the St Peters Garden weekend  committee have made the hard decision to cancel the 2019 St Peters garden weekend due to the  on going nature and  severity of the drought.  We continue to pray for rain and hope in 2020 we will be back to normal.  
+**“ST PETER’S ANGLICAN OPEN GARDENS” ARE ON AGAIN THIS YEAR**
 
-
-<!-- <h2 class="text-center">3rd November | 4th November<br>Open 10am - 5pm | Open 10am - 4pm</h2>
+<h2 class="text-center">5TH AND 6TH NOVEMBER 2022<br>10am - 5pm Saturday and Sunday 10am - 4pm Sunday</h2>
 
 <br>
 
 
-St Peters Town and Country Garden Tours have been an annual event in Armidale for many decades. Through all the vagaries of New England weather - drought, hailstorms, rainstorms, late frosts, wild winters, mild winters - the gardens have brought pleasure to a great many visitors, year in year out.
+Lunch, morning /afternoon tea available at Parish centre available at Parish Centre. Will be available in William’s and Munday garden Sunday only.
 
-**CHARITIES:**  Oncology Dept Armidale Hospital, Young Life Youth work Uralla, Riding for the Disabled Armidale
+There will be a number of stalls at the Parish centre on Saturday 
 
-**GARDEN PREVIEWS:** You can find out more about what is in store by viewing the [online profiles](/gardens)  of each of the eight gardens included in this year's event. Tickets are available from the garden gates on 3<sup>rd</sup> and 4<sup>th</sup> November
+Bell Tower tours from 2.00 4.00pm plus the ringing of the bells on Saturday.
 
-**COSTS:** $5.00 per garden or $40.00 for a weekend ticket or $45.00 for daily coach ticket.
+Music will be at the Cathedral grounds, in the cathedral and at several gardens.
 
-**FOOD:** Morning and afternoon Tea $5, Lunch $10
+There will be a Central Park walk as it is now heritage listed and there will be a talk on the trees etc as some have come from other countries, I do believe this will take place between 11.30am and 2.30pm.
 
-If you would like to know more about details such as transport and the timetabling of events see the [Events Program](/events_program).
+For those who do not drive, a bus will be leaving the Cathedral at about 9.45 for the gardens.
 
-**CONTACT DETAILS**
+**Ticket Information**
 
-Phone:
+$8 per garden
+$45 for weekend pass
 
-[0407 537 016](tel:0407537016) (Coral Thrift)
+Tickets for gardens will be available from Carr’s News agency or the Parish office. Bus tickets available only at parish office.
 
-E-mail:
+**Charities for 2022**
 
-[coralthrift11@hotmail.com](mailto:coralthrift11@hotmail.com) (Coral Thrift) 
-
-Tickets are available at Carr's Newsagency
-
-<div class="text-center">
-<h3>MAJOR SPONSORS</h3>
-<img src="/images/sponsors/all-sponsors.jpg" alt="Sponsors">
-</div> -->
+This year proceeds will be divided uo amongst three charities:  Spinocerebellar Ataxia Australia, the Westpac Rescue Helicopter and  St Peters Cathedral Maintenance
