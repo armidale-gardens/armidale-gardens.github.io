@@ -28,7 +28,7 @@ homepage: true
 
 **“ST PETER’S ANGLICAN OPEN GARDENS” ARE ON AGAIN THIS YEAR**
 
-<h2 class="text-center">5TH AND 6TH NOVEMBER 2022<br>10am - 5pm Saturday and Sunday 10am - 4pm Sunday</h2>
+<h2 class="text-center">5TH AND 6TH NOVEMBER 2022<br>10am - 5pm Saturday and 10am - 4pm Sunday</h2>
 
 <br>
 
@@ -48,6 +48,7 @@ For those who do not drive, a bus will be leaving the Cathedral at about 9.45 fo
 **Ticket Information**
 
 $8 per garden
+
 $45 for weekend pass
 
 Tickets for gardens will be available from Carr’s News agency or the Parish office. Bus tickets available only at parish office.
