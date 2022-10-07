@@ -2,34 +2,41 @@
   url: "/"
   side: left
 
-- title: Background
-  url: "/background/"
-  side: left
+# - title: Background
+#   url: "/background/"
+#   side: left
 
-- title: Dean's Message
-  url: "/deans_message/"
-  side: left
+# - title: Dean's Message
+#   url: "/deans_message/"
+#   side: left
 
 - title: "The Gardens"
   url: "/gardens/"
   side: left
-  dropdown:
-  - title: "KRIS AND JOHN CROFT, GALVESTON"
-    url: "/gardens/kris-and-john-croft-galveston"
-  - title: "KEITH AND COLLEEN FINLAYSON"
-    url: "/gardens/keith-and-colleen-finlayson"
-  - title: "TONY AND WENDY SMITH"
-    url: "/gardens/tony-and-wendy-smith"
-  - title: "HOWARD AND LYN MUNDAY"
-    url: "/gardens/howard-and-lyn-munday"
-  - title: "VINCE AND SHEREE WILLIAMS"
-    url: "/gardens/vince-and-sheree-williams"
-  - title: "ALEX & ANDREW DRANEY, STONE WATER RILL"
-    url: "/gardens/alex-andrew-draney-stone-water-rill"
-  - title: "JAN McKELVEY"
-    url: "/gardens/jan-mc-kelvey"
-  - title: "GUIDED WALKING TOURS OF CENTRAL PARK"
-    url: "/gardens/guided-walking-tours-of-central-park"
-- title: Events Program
-  url: "/events_program/"
+- title: "KRIS AND JOHN CROFT, GALVESTON"
+  url: "/gardens/kris-and-john-croft-galveston"
   side: left
+- title: "KEITH AND COLLEEN FINLAYSON"
+  url: "/gardens/keith-and-colleen-finlayson"
+  side: left
+- title: "TONY AND WENDY SMITH"
+  url: "/gardens/tony-and-wendy-smith"
+  side: left
+- title: "HOWARD AND LYN MUNDAY"
+  url: "/gardens/howard-and-lyn-munday"
+  side: left
+- title: "VINCE AND SHEREE WILLIAMS"
+  url: "/gardens/vince-and-sheree-williams"
+  side: left
+- title: "ALEX & ANDREW DRANEY, STONE WATER RILL"
+  url: "/gardens/alex-andrew-draney-stone-water-rill"
+  side: left
+- title: "JAN McKELVEY"
+  url: "/gardens/jan-mc-kelvey"
+  side: left
+- title: "GUIDED WALKING TOURS OF CENTRAL PARK"
+  url: "/gardens/guided-walking-tours-of-central-park"
+  side: left
+# - title: Events Program
+#   url: "/events_program/"
+#   side: left

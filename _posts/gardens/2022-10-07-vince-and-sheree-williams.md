@@ -3,12 +3,12 @@ layout: page-fullwidth
 permalink: /gardens/vince-and-sheree-williams/
 header:
   title: Vince And Sheree Williams
-  image_fullwidth: gardens/vince-and-sheree-williams/1.png
+  image_fullwidth: gardens/vince-and-sheree-williams/1.jpg
 categories:
     - gardens
 gallery:
-    - image_url: gardens/vince-and-sheree-williams/1.png
-    - image_url: gardens/vince-and-sheree-williams/2.png
+    - image_url: gardens/vince-and-sheree-williams/1.jpg
+    - image_url: gardens/vince-and-sheree-williams/2.jpg
 
 
 ---

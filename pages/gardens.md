@@ -12,39 +12,42 @@ This year's St Peters Gardens tour will take you to the following destinations.
   <tbody>
     <tr>
       <td>Gardens</td>
-      <td>Category</td>
+      <td>Address</td>
     </tr>
     <tr>
-      <td>Anne &amp; Neil Baillie</td>
-      <td><a href="/gardens/anne-and-neil-baillie">Armidale Country Garden</a></td>
+      <td>Kris And John Croft, Galveston</td>
+      <td><a href="/gardens/kris-and-john-croft-galveston">645 BUNDARRA ROAD, SAUMAREZ PONDS</a></td>
     </tr>
     <tr>
-      <td>Kevin Archer</td>
-      <td><a href="/gardens/kevin-archer">Armidale Town Garden</a></td>
+      <td>Keith And Colleen Finlayson</td>
+      <td><a href="/gardens/keith-and-colleen-finlayson">49 LINK ROAD, ARMIDALE</a></td>
     </tr>
     <tr>
-      <td>Keith &amp; Carolyn Cleland</td>
-      <td><a href="/gardens/keith-and-carolyn-cleland">Armidale Country Garden</a></td>
+      <td>Tony And Wendy Smith</td>
+      <td><a href="/gardens/tony-and-wendy-smith">29 GORDON STREET, ARMIDALE</a></td>
     </tr>
     <tr>
-      <td>Diane &amp; Ern Smith</td>
-      <td><a href="/gardens/diane-and-ern-smith">Armidale Town Garden</a></td>
+      <td>Howard And Lyn Munday</td>
+      <td><a href="/gardens/howard-and-lyn-munday">64 ROWLANDS ROAD, ARMIDALE</a></td>
     </tr>
     <tr>
-      <td>Margaret &amp; Jeff Scott</td>
-      <td><a href="/gardens/margaret-and-jeff-scott">Uralla Town Garden</a></td>
+      <td>Vince And Sheree Williams</td>
+      <td><a href="/gardens/vince-and-sheree-williams">112 EATHORPE ROAD, ARMIDALE</a></td>
     </tr>
     <tr>
-      <td>Sue &amp; David Wilkinson</td>
-      <td><a href="/gardens/sue-and-david-wilkinson">Uralla Town Garden</a></td>
+      <td>Alex & Andrew Draney, Stone Water Rill</td>
+      <td><a href="/gardens/alex-andrew-draney-stone-water-rill">141 MAYS ROAD, ARMIDALE</a></td>
     </tr>
     <tr>
-      <td>Patrick Laher</td>
-      <td><a href="/gardens/patrick-laher">Uralla Town Garden/Native Plants Garden</a></td>
+      <td>Jan Mckelvey</td>
+      <td><a href="/gardens/jan-mc-kelvey">163 TAYLOR STREET, ARMIDALE</a></td>
     </tr>
     <tr>
-      <td>Bill &amp; Rae Andrews</td>
-      <td><a href="/gardens/bill-and-rae-andrews">Uralla Town Garden</a></td>
+      <td>Guided Walking Tours Of Central Park</td>
+      <td><a href="/gardens/guided-walking-tours-of-central-park">Central Park</a><br>
+      SATURDAY BETWEEN 11.30AM & 2.30PM<br>
+      Richard Single:  Project Officer - Public and Town Spaces<br>
+      MEET RICHARD AT THE PARISH GATE IN TINCOMBE LANE AT 11.30AM OR JOIN THE TOUR AT ANY TIME UP UNTIL 2.30PM ON SATURDAY ONLY.</td>
     </tr>
   </tbody>
 </table>

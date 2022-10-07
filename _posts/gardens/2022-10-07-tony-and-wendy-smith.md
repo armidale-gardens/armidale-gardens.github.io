@@ -3,12 +3,12 @@ layout: page-fullwidth
 permalink: /gardens/tony-and-wendy-smith/
 header:
   title: Tony And Wendy Smith
-  image_fullwidth: gardens/tony-and-wendy-smith/1.jpg
+  image_fullwidth: gardens/tony-and-wendy-smith/1.png
 categories:
     - gardens
 gallery:
-    - image_url: gardens/tony-and-wendy-smith/1.jpg
-    - image_url: gardens/tony-and-wendy-smith/2.jpg
+    - image_url: gardens/tony-and-wendy-smith/1.png
+    - image_url: gardens/tony-and-wendy-smith/2.png
 
 
 ---
