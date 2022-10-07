@@ -26,12 +26,11 @@ permalink: /index.html
 homepage: true
 ---
 
-**“ST PETER’S ANGLICAN OPEN GARDENS” ARE ON AGAIN THIS YEAR**
-
 <h2 class="text-center">5TH AND 6TH NOVEMBER 2022<br>10am - 5pm Saturday and 10am - 4pm Sunday</h2>
 
 <br>
 
+**“ST PETER’S ANGLICAN OPEN GARDENS” ARE ON AGAIN THIS YEAR**
 
 Lunch, morning /afternoon tea available at Parish centre available at Parish Centre. Will be available in William’s and Munday garden Sunday only.
 
