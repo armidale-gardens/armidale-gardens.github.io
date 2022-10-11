@@ -25,4 +25,6 @@ Wendy has specifically chosen the fragrant roses at the side of the house and th
 
 Out the front there are agapanthus, standard roses under planted with penstemons, carnations, and a weeping cherry also under planted with annuals such as petunias and lobelia. Along the patio is a lone Daphne that has survived an infestation of scale.
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

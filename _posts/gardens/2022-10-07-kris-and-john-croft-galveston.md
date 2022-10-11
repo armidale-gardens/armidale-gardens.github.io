@@ -22,4 +22,6 @@ We continue to produce small quantities of Sauvignon Blanc and Rose from the vin
 
 Some aspects, such as the sunken garden, have matured. Some things have changed. The vege garden became very shaded, so was moved out the back and replaced with a cubby house and play area for our granddaughter. Maturing trees in the side garden threw too much shade for grass cover. so these areas have been converted to brick-bordered bark gardens, with shade loving plants such as camelias and azaleas. We have added new aspects to the garden, such as a native windbreak in the front to protect a new rose garden, and we are constructing a new greenhouse.
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

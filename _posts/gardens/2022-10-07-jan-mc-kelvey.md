@@ -20,4 +20,6 @@ The previous owner, Anne McKern, came here from a large country garden in 1997, 
 
 At present this is a garden of compromises. Changing climate, an increasing fondness for whatever grows well and a tendency to take things more easily mean that it is less in control but more enjoyable to inhabit. I hope you enjoy it too.
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

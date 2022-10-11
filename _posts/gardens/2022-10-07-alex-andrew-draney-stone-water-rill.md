@@ -23,4 +23,6 @@ It is not fully executed as yet, and we love watching everything grow and begin 
 
 Alex and Andrew Draney
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

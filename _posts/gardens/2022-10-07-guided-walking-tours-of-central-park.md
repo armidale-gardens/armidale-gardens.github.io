@@ -41,4 +41,6 @@ Richard Single
 
 Project Officer - Public and Town Spaces
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

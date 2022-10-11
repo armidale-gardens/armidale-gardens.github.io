@@ -25,4 +25,6 @@ In our garden there are numerous trees such as:  Chinese Elms, Liquid Ambers, Pl
 
 Enjoy wandering around and relax in our garden.
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

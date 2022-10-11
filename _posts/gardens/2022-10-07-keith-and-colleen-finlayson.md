@@ -29,4 +29,6 @@ Come and see our garden, we hope you enjoy your visit.
 
 There will be a plant stall run by the Australian Plant Society Members. These plants are suitable for our climate and all money raised will be used to buy plants for the Armidale Arboretum.
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}

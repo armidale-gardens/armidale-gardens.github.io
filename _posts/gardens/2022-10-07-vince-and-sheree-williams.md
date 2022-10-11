@@ -25,4 +25,6 @@ The garden is definitely an informal garden. There was no plan - it simply grew 
 
 Even after about 30 years of gardening, I do not consider myself to be an expert - far from it. I have made lots of mistakes, some of which I have had to learn to live with as correcting them is just too hard. I am however an avid gardener and my two favorite things to do are pottering in the garden and wandering around a nursery. If you choose to visit my garden I hope you find it interesting, peaceful and enjoyable. 
 
+**Please click on photos to enlarge the image**
+
 {% include gallery %}
