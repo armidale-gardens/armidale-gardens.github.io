@@ -30,6 +30,6 @@
     url: "/gardens/jan-mc-kelvey"
   - title: "GUIDED WALKING TOURS OF CENTRAL PARK"
     url: "/gardens/guided-walking-tours-of-central-park"
-# - title: Events Program
-#   url: "/events_program/"
-#   side: left
+- title: What's On
+  url: "/whats_on/"
+  side: left

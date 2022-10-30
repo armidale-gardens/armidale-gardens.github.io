@@ -50,6 +50,10 @@ $8 per garden
 
 $45 for weekend pass
 
+$5 for morning and afternoon teas
+
+$10 for lunches 
+
 Tickets for gardens will be available from Carr’s News agency or the Parish office. Bus tickets available only at parish office.
 
 **Charities for 2022**
